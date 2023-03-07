@@ -1,0 +1,7 @@
+data/*
+models/*
+train/*
+
+chromedriver.exe
+
+__pycache__
